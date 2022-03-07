@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="datastrukturer:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/datastrukturer_jar</output-path>
+    <root id="archive" name="datastrukturer.jar">
+      <element id="module-output" name="datastrukturer" />
+    </root>
+  </artifact>
+</component>
